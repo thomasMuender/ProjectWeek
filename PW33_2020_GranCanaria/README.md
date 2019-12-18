@@ -73,6 +73,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * SlicerAstro Update (Davide Punzo)
 
+* Slicer to Unity Connection (Thomas Muender, Anke Reinschluessel, ...)
+
 ### Education
 
 * 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
